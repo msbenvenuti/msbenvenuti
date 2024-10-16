@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus! 👋
+## Olá, me chamo Matheus! 👋
 Sou Analista de Dados certificado pela tripleTen, sempre focado em transformar dados em insights e decisões estratégicas. Tenho experiência com Python, SQL, análise estatística, visualização de dados e automação de processos. Estou sempre em busca de novas oportunidades para aprender e contribuir com soluções inovadoras.
 
 🛠️ Habilidades:
