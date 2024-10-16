@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Matheus! 👋
+Sou Analista de Dados certificado pela tripleTen, sempre focado em transformar dados em insights e decisões estratégicas. Tenho experiência com Python, SQL, análise estatística, visualização de dados e automação de processos. Estou sempre em busca de novas oportunidades para aprender e contribuir com soluções inovadoras.
 
-<!--
-**msbenvenuti/msbenvenuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Habilidades:
 
-Here are some ideas to get you started:
+Python, Pandas, NumPy
+SQL
+Análise de Dados Estatísticos
+Machine Learning (Scikit-Learn)
+Visualização de Dados (Matplotlib, Seaborn)
+Desenvolvimento de Aplicativos Interativos (Streamlit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos Recentes:
+
+Análise de Perfis de Usuários em Streaming de Música
+Testes A/B e Segmentação de Clientes
+Aplicativos Interativos com Streamlit
