@@ -3,15 +3,15 @@ Sou Analista de Dados certificado pela tripleTen, sempre focado em transformar d
 
 🛠️ Habilidades:
 
-Python, Pandas, NumPy
-SQL
-Análise de Dados Estatísticos
-Machine Learning (Scikit-Learn)
-Visualização de Dados (Matplotlib, Seaborn)
-Desenvolvimento de Aplicativos Interativos (Streamlit)
+- Python, Pandas, NumPy
+- SQL
+- Análise de Dados Estatísticos
+- Machine Learning (Scikit-Learn)
+- Visualização de Dados (Matplotlib, Seaborn)
+- Desenvolvimento de Aplicativos Interativos (Streamlit)
 
 🚀 Projetos Recentes:
 
-Análise de Perfis de Usuários em Streaming de Música
-Testes A/B e Segmentação de Clientes
-Aplicativos Interativos com Streamlit
+- Análise de Perfis de Usuários em Streaming de Música
+- Testes A/B e Segmentação de Clientes
+- Aplicativos Interativos com Streamlit
